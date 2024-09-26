@@ -1,4 +1,4 @@
-# slicing
+# Python array slicing
 
 ```
                 +-----------------------------+
